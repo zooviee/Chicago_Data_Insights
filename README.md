@@ -2,7 +2,7 @@
 > Exploring Socioeconomic Indicators, Schools, and Crime
 
 <center>
-    <img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width="1000" alt="cognitiveclass.ai logo" />
+    <img src="https://camo.githubusercontent.com/9e368fb02519eeb3a27b30d03b5621d130c902583ae6438cdd9552ce3b239da6/68747470733a2f2f7777772e6461746171756573742e696f2f77702d636f6e74656e742f75706c6f6164732f323032312f31312f7768792d73716c2d636f6e73756d65732d736f2d6d7563682d6d656d6f72792d6865616465722e77656270" width="1000" alt="cognitiveclass.ai logo" />
 </center>
 
 > View Notebook @ [https://github.com/zooviee/Chicago-Data-Insights/blob/main/notebook.ipynb](https://github.com/zooviee/Chicago_Data_Insights/blob/main/Chicago%20Crime%20Insights.ipynb)
